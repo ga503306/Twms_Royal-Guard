@@ -1,6 +1,7 @@
 ﻿# TwMS Royal-Guard Pointer Records update v282.3
 
 // TwMs v275.7 Royal-Guard
+
 [Enable]
 [[149378CD0]+000023F8]+00001730:
 db 2A E0 91 C6 01 8F 34 5E 82 6F 16 9A 58 83 7F 66 AF AD 2B B3 49 41 12 62
