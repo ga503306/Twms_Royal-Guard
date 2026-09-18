@@ -1,7 +1,6 @@
-﻿# TwMS 皇家守衛 Pointer Records
+﻿# TwMS Royal-Guard Pointer Records update v282.3
 
-// TwMs v275.7 皇家守衛
-
+// TwMs v275.7 Royal-Guard
 [Enable]
 [[149378CD0]+000023F8]+00001730:
 db 2A E0 91 C6 01 8F 34 5E 82 6F 16 9A 58 83 7F 66 AF AD 2B B3 49 41 12 62
@@ -12,7 +11,7 @@ db 6D F3 CF AE 9B 7F 76 6D B6 8F 19 6E 55 24 25 5D 22 29 E9 AA C4 6F 25 72
 
 ---
 
-// TwMs v277.6 皇家守衛
+// TwMs v277.6 Royal-Guard
 
 [Enable]
 [[14962BCD0]+000023F8]+00001730:
@@ -24,7 +23,7 @@ db 6D F3 CF AE 9B 7F 76 6D B6 8F 19 6E 55 24 25 5D 22 29 E9 AA C4 6F 25 72
 
 ---
 
-// TwMs v277.7 皇家守衛
+// TwMs v277.7 Royal-Guard
 
 [Enable]
 [[14962CCF0]+000023F8]+00001730:
@@ -36,7 +35,7 @@ db 6D F3 CF AE 9B 7F 76 6D B6 8F 19 6E 55 24 25 5D 22 29 E9 AA C4 6F 25 72
 
 ---
 
-// TwMs v280.7 皇家守衛
+// TwMs v280.7 Royal-Guard
 
 [Enable]
 [[1499949A0]+00002490]+000016C4:
@@ -48,7 +47,7 @@ db 6D F3 CF AE 9B 7F 76 6D B6 8F 19 6E 55 24 25 5D 22 29 E9 AA C4 6F 25 72
 
 ---
 
-// TwMs v281.9 皇家守衛
+// TwMs v281.9 Royal-Guard
 
 [Enable]
 [[149F29740]+00002490]+000016C4:
@@ -60,7 +59,7 @@ db 6D F3 CF AE 9B 7F 76 6D B6 8F 19 6E 55 24 25 5D 22 29 E9 AA C4 6F 25 72
 
 ---
 
-// TwMs v282.2 皇家守衛
+// TwMs v282.2 Royal-Guard
 
 [Enable]
 [[149BAE4A0]+000024C8]+000016E8:
@@ -72,7 +71,7 @@ db 6D F3 CF AE 9B 7F 76 6D B6 8F 19 6E 55 24 25 5D 22 29 E9 AA C4 6F 25 72
 
 ---
 
-// TwMs v282.3 皇家守衛
+// TwMs v282.3 Royal-Guard
 
 [Enable]
 [[149BAE4B0]+000024C8]+000016E8:
