@@ -1,4 +1,4 @@
-﻿# TwMS Royal-Guard Pointer Records update 9/23 v282.4
+﻿# TwMS Royal-Guard Pointer Records update 10/11 v282.5
 
 ```text
 // TwMs v275.7 Royal-Guard
