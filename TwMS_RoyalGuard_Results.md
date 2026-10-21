@@ -1,4 +1,4 @@
-﻿# TwMS Royal-Guard Pointer Records update 10/11 v282.5
+﻿# TwMS Royal-Guard Pointer Records update 10/21 v283.1
 
 ```text
 // TwMs v275.7 Royal-Guard
@@ -108,6 +108,19 @@ db 2A E0 91 C6 01 8F 34 5E 82 6F 16 9A 58 83 7F 66 AF AD 2B B3 49 41 12 62
 
 [Disable]
 [[149BB14D0]+000024C8]+000016E8:
+db 6D F3 CF AE 9B 7F 76 6D B6 8F 19 6E 55 24 25 5D 22 29 E9 AA C4 6F 25 72
+```
+---
+
+```text
+// TwMs v283.1 Royal-Guard
+
+[Enable]
+[[149C1B980]+000024C8]+000016E8:
+db 2A E0 91 C6 01 8F 34 5E 82 6F 16 9A 58 83 7F 66 AF AD 2B B3 49 41 12 62
+
+[Disable]
+[[149C1B980]+000024C8]+000016E8:
 db 6D F3 CF AE 9B 7F 76 6D B6 8F 19 6E 55 24 25 5D 22 29 E9 AA C4 6F 25 72
 ```
 ---
